@@ -1,0 +1,21 @@
+# Fotos originais (inclui foto de família da Cláudia) — o site usa só os recortes em assets/img
+assets/fotos/
+
+# Anotações internas de conteúdo
+conteudo/
+
+# Vercel CLI
+.vercel/
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Versões antigas de imagens que o site não usa mais
+assets/img/hero-tathy-640.webp
+assets/img/hero-tathy-1000.webp
+assets/img/tathy-frente-480.webp
+assets/img/tathy-frente-800.webp
+assets/img/tathy-perfil-recorte-480.webp
+assets/img/tathy-perfil-recorte-800.webp
