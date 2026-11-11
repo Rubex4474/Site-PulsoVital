@@ -19,3 +19,5 @@ assets/img/tathy-frente-480.webp
 assets/img/tathy-frente-800.webp
 assets/img/tathy-perfil-recorte-480.webp
 assets/img/tathy-perfil-recorte-800.webp
+.vercel
+.env*
